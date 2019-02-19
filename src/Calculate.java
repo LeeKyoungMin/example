@@ -124,5 +124,6 @@ public class Calculate {
 			System.out.println("Wrong!");
 			break;
 		}
+		System.out.println("End");
 	}
 }
